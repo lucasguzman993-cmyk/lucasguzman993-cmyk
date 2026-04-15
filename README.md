@@ -12,4 +12,4 @@ Actualmente me encuentro transicionando hacia el desarrollo Backend con Python.
 - Desarrollando sistemas de gestión y automatización de datos.
 - Profundizando en el framework Django.
 
-📫 **Contacto:** [Tu LinkedIn aquí]
+📫 Contacto: https://www.linkedin.com/in/lucas-guzman-5840bb250/

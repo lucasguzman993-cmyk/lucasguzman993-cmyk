@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy Lucas Guzman 👋
 
-<!--
-**lucasguzman993-cmyk/lucasguzman993-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Técnico en Mecatrónica recibido en la UTN. 
+Actualmente me encuentro transicionando hacia el desarrollo Backend con Python.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y herramientas:
+- **Lenguajes:** Python, SQL (MySQL, PostgreSQL).
+- **Hardware/Automatización:** Arduino, PLC, Robótica, Sensores.
+- **Herramientas:** Git, GitHub, Pandas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Proyectos actuales:
+- Desarrollando sistemas de gestión y automatización de datos.
+- Profundizando en el framework Django.
+
+📫 **Contacto:** [Tu LinkedIn aquí]

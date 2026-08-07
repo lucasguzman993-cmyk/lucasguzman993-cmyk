@@ -1,15 +1,14 @@
 # ¡Hola! Soy Lucas Guzman 👋
 
 Soy Técnico en Mecatrónica recibido en la UTN. 
-Actualmente me encuentro transicionando hacia el desarrollo Backend con Python.
+Actualmente me encuentro transicionando hacia el desarrollo fullstack.
 
 ### 🛠️ Tecnologías y herramientas:
-- **Lenguajes:** Python, SQL (MySQL, PostgreSQL).
-- **Hardware/Automatización:** Arduino, PLC, Robótica, Sensores.
-- **Herramientas:** Git, GitHub, Pandas.
+
+- Desarrollador Full Stack Jr | Python · Django · FastAPI | JavaScript · Bootstrap | PostgreSQL | Sistema POS con clientes reales + 3 proyectos en producción | Open to Work
 
 ### 🔭 Proyectos actuales:
 - Desarrollando sistemas de gestión y automatización de datos.
-- Profundizando en el framework Django.
+- Dingmark — Sistema de Punto de Venta (POS) · En uso con clientes reales
 
-📫 Contacto: https://www.linkedin.com/in/lucas-guzman-5840bb250/
+📫 Contacto: https://www.linkedin.com/in/lucasguzman-dev/
